@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 from agent import *
 import sys
-
 try:
     sys.path.append('/home/vasanth/Documents/sumo/tools')
     from sumolib import checkBinary
