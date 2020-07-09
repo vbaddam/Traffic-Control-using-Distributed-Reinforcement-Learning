@@ -12,7 +12,6 @@ import threading
 from threading import Thread, Lock
 import time
 from keras import backend as K
-
 try:
     sys.path.append('/home/vasanth/Documents/sumo/tools')
     from sumolib import checkBinary
